@@ -1,0 +1,6 @@
+/* App.css is mostly handled by index.css and specific component CSS files */
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

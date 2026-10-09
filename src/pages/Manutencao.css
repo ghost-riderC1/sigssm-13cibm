@@ -1,0 +1,13 @@
+.manutencao-page {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.badge-outline {
+    border: 1px solid var(--border-color);
+    padding: 4px 10px;
+    border-radius: var(--radius-sm);
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+}
